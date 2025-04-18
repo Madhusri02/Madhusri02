@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhu Sri !</h1>
-<h3 align="center"> | AI/ML enthusiast | Backend and Frontend devloper |</h3>
+<h3 align="center"> | AI/ML enthusiast | Backend devloper |</h3>
 
 
 
